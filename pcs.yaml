@@ -1,0 +1,7 @@
+name: "deployer-test"
+gitpath: "https://github.com/allen-chu-ge/deployer-test"
+instances: "1"
+memory: "512M"
+cpu: ".1"
+port: "80"
+namespace: "predix-analytics"
